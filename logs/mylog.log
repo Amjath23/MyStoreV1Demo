@@ -1,0 +1,324 @@
+[INFO ] 2024-03-14 17:18:11.917 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-14 17:18:12.223 [main] MyStoreV1 - ***************TestCase Verify Registration and Login starts*****************
+[INFO ] 2024-03-14 17:18:12.452 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2024-03-14 17:18:13.395 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-14 17:18:13.738 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-14 17:18:13.867 [main] MyStoreV1 - user is registered
+[INFO ] 2024-03-14 17:18:17.680 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-14 17:18:17.847 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-14 17:18:18.172 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-14 17:18:18.509 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-14 17:18:18.990 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-14 17:18:19.322 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-14 17:18:21.907 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-14 17:18:22.519 [main] MyStoreV1 - ***************TestCase Verify Home page tabs*****************
+[INFO ] 2024-03-14 17:18:22.641 [main] MyStoreV1 - verified productstore label
+[INFO ] 2024-03-14 17:18:22.723 [main] MyStoreV1 - verified home label
+[INFO ] 2024-03-14 17:18:22.771 [main] MyStoreV1 - verified contact label
+[INFO ] 2024-03-14 17:18:22.890 [main] MyStoreV1 - verified Aboutus label
+[INFO ] 2024-03-14 17:18:22.937 [main] MyStoreV1 - verified Logout label
+[INFO ] 2024-03-14 17:18:22.981 [main] MyStoreV1 - verified Cathegories Logout label
+[INFO ] 2024-03-14 17:18:23.126 [main] MyStoreV1 - selected on phones tab
+[INFO ] 2024-03-14 17:18:23.214 [main] MyStoreV1 - selected galaxy tab
+[INFO ] 2024-03-16 20:04:16.618 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-16 20:04:17.017 [main] MyStoreV1 - ***************TestCase Verify Registration and Login starts*****************
+[INFO ] 2024-03-16 20:04:17.212 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2024-03-16 20:04:17.931 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-16 20:04:18.480 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-16 20:04:18.586 [main] MyStoreV1 - user is registered
+[INFO ] 2024-03-16 20:04:22.673 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-16 20:04:22.924 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-16 20:04:23.095 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-16 20:04:23.532 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-16 20:04:23.673 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-16 20:04:23.766 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-16 20:04:26.447 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-16 20:04:27.661 [main] MyStoreV1 - ***************TestCase Verify Home page tabs*****************
+[INFO ] 2024-03-16 20:04:27.763 [main] MyStoreV1 - verified productstore label
+[INFO ] 2024-03-16 20:04:27.828 [main] MyStoreV1 - verified home label
+[INFO ] 2024-03-16 20:04:27.872 [main] MyStoreV1 - verified contact label
+[INFO ] 2024-03-16 20:04:27.919 [main] MyStoreV1 - verified Aboutus label
+[INFO ] 2024-03-16 20:04:27.964 [main] MyStoreV1 - verified Logout label
+[INFO ] 2024-03-16 20:04:28.025 [main] MyStoreV1 - verified Cathegories Logout label
+[INFO ] 2024-03-16 20:04:28.467 [main] MyStoreV1 - selected on phones tab
+[INFO ] 2024-03-16 20:04:28.888 [main] MyStoreV1 - selected galaxy tab
+[INFO ] 2024-03-16 20:28:01.591 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-16 20:28:01.970 [main] MyStoreV1 - ***************TestCase Verify Registration and Login starts*****************
+[INFO ] 2024-03-16 20:28:02.174 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2024-03-16 20:28:03.031 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-16 20:28:03.172 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-16 20:28:03.293 [main] MyStoreV1 - user is registered
+[INFO ] 2024-03-16 20:28:06.825 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-16 20:28:07.085 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-16 20:28:07.228 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-16 20:28:07.615 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-16 20:28:08.207 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-16 20:28:08.352 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-16 20:28:11.881 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-16 20:28:12.049 [main] MyStoreV1 - ***************TestCase Verify Home page tabs*****************
+[INFO ] 2024-03-16 20:28:12.184 [main] MyStoreV1 - verified productstore label
+[INFO ] 2024-03-16 20:28:12.246 [main] MyStoreV1 - verified home label
+[INFO ] 2024-03-16 20:28:12.354 [main] MyStoreV1 - verified contact label
+[INFO ] 2024-03-16 20:28:12.505 [main] MyStoreV1 - verified Aboutus label
+[INFO ] 2024-03-16 20:28:12.577 [main] MyStoreV1 - verified Logout label
+[INFO ] 2024-03-16 20:28:12.647 [main] MyStoreV1 - verified Cathegories Logout label
+[INFO ] 2024-03-16 20:28:12.794 [main] MyStoreV1 - selected on phones tab
+[INFO ] 2024-03-16 20:28:12.922 [main] MyStoreV1 - selected galaxy tab
+[INFO ] 2024-03-16 20:29:22.062 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-16 20:29:22.330 [main] MyStoreV1 - ***************TestCase Verify Registration and Login starts*****************
+[INFO ] 2024-03-16 20:29:22.524 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2024-03-16 20:29:23.012 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-16 20:29:23.592 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-16 20:29:23.720 [main] MyStoreV1 - user is registered
+[INFO ] 2024-03-16 20:29:27.911 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-16 20:29:28.191 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-16 20:29:28.313 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-16 20:29:28.847 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-16 20:29:29.272 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-16 20:29:29.432 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-16 20:29:33.429 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-16 20:29:33.638 [main] MyStoreV1 - ***************TestCase Verify Home page tabs*****************
+[INFO ] 2024-03-16 20:29:33.887 [main] MyStoreV1 - verified productstore label
+[INFO ] 2024-03-16 20:29:33.952 [main] MyStoreV1 - verified home label
+[INFO ] 2024-03-16 20:29:34.012 [main] MyStoreV1 - verified contact label
+[INFO ] 2024-03-16 20:29:34.067 [main] MyStoreV1 - verified Aboutus label
+[INFO ] 2024-03-16 20:29:34.118 [main] MyStoreV1 - verified Logout label
+[INFO ] 2024-03-16 20:29:34.169 [main] MyStoreV1 - verified Cathegories Logout label
+[INFO ] 2024-03-16 20:29:34.294 [main] MyStoreV1 - selected on phones tab
+[INFO ] 2024-03-16 20:29:34.478 [main] MyStoreV1 - selected galaxy tab
+[INFO ] 2024-03-16 22:06:44.725 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-16 22:06:48.141 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-16 22:06:48.368 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-16 22:06:48.719 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-16 22:06:48.977 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-16 22:06:49.073 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-16 22:06:50.946 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-16 22:06:51.118 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-16 22:06:51.467 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-16 22:06:51.667 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-16 22:06:51.773 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-16 22:06:52.192 [main] MyStoreV1 - user successfully logged out
+[INFO ] 2024-03-16 22:14:42.313 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-16 22:14:47.467 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-16 22:14:47.646 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-16 22:14:48.065 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-16 22:14:48.248 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-16 22:14:48.347 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-16 22:14:50.050 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-16 22:14:50.174 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-16 22:14:50.515 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-16 22:14:50.690 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-16 22:14:50.782 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-16 22:14:52.884 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-16 22:14:53.016 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-16 22:14:53.340 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-16 22:14:53.491 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-16 22:14:53.738 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-16 22:14:53.781 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:32:12.153 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-17 11:32:14.727 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:32:14.883 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 11:32:15.234 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 11:32:15.430 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 11:32:15.529 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 11:32:17.153 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:32:17.241 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 11:32:17.550 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 11:32:17.700 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 11:32:17.851 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 11:32:18.752 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:32:18.872 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 11:32:19.149 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 11:32:19.294 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 11:32:19.502 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 11:32:20.149 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:32:20.407 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 11:32:20.869 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 11:32:21.018 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 11:32:21.097 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 11:41:49.373 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-17 11:41:52.745 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:41:53.032 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 11:41:53.424 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 11:41:53.630 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 11:41:53.726 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 11:41:55.413 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:41:55.547 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 11:41:55.887 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 11:41:56.060 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 11:41:56.156 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 11:41:57.123 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:41:57.281 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 11:41:57.650 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 11:41:57.810 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 11:41:57.889 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 11:41:58.988 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:41:59.152 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 11:41:59.462 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 11:41:59.626 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 11:41:59.756 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 11:42:00.442 [main] MyStoreV1 - user successfully logged out
+[INFO ] 2024-03-17 11:44:45.466 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-17 11:44:49.210 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:44:49.397 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 11:44:49.726 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 11:44:49.886 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 11:44:49.992 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 11:44:50.093 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:44:51.300 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:44:52.459 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:45:41.660 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-17 11:45:45.496 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:45:45.662 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 11:45:45.965 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 11:45:46.135 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 11:45:46.251 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 11:45:47.615 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:45:47.763 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 11:45:48.082 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 11:45:48.249 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 11:45:48.337 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 11:45:49.110 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:45:49.238 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 11:45:49.549 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 11:45:49.702 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 11:45:49.794 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 11:45:49.814 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:48:03.454 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-17 11:48:06.603 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:48:06.765 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 11:48:07.148 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 11:48:07.418 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 11:48:07.546 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 11:48:08.772 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:48:08.899 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 11:48:09.202 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 11:48:09.461 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 11:48:09.583 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 11:48:10.200 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:48:10.328 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 11:48:10.646 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 11:48:10.800 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 11:48:10.897 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 11:48:10.981 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:49:34.888 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-17 11:49:38.001 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:49:38.238 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 11:49:38.474 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 11:49:38.696 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 11:49:38.812 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 11:49:38.888 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:49:40.027 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:49:41.128 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:50:40.922 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-17 11:50:43.893 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:50:44.110 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 11:50:44.409 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 11:50:44.626 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 11:50:44.740 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 11:50:46.234 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:50:46.379 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 11:50:46.665 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 11:50:46.825 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 11:50:46.929 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 11:50:47.868 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:50:47.982 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 11:50:48.300 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 11:50:48.442 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 11:50:48.532 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 11:50:48.558 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:53:32.978 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-17 11:53:35.863 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:53:36.047 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 11:53:36.364 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 11:53:36.538 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 11:53:36.652 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 11:53:36.754 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:53:37.998 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:53:39.086 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:59:42.619 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-17 11:59:46.160 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:59:46.335 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 11:59:46.773 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 11:59:46.968 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 11:59:47.073 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 11:59:48.660 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:59:48.762 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 11:59:49.095 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 11:59:49.295 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 11:59:49.403 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 11:59:50.328 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:59:50.445 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 11:59:50.858 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 11:59:51.069 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 11:59:51.187 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 11:59:52.219 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 11:59:52.321 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 11:59:52.687 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 11:59:52.977 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 11:59:53.078 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 12:00:55.244 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-17 12:00:55.605 [main] MyStoreV1 - ***************TestCase Verify Registration and Login starts*****************
+[INFO ] 2024-03-17 12:00:56.316 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2024-03-17 12:00:56.684 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 12:00:56.962 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 12:00:57.115 [main] MyStoreV1 - user is registered
+[INFO ] 2024-03-17 12:01:00.330 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-17 12:01:00.559 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 12:01:00.780 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 12:01:01.584 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 12:01:01.843 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 12:01:01.957 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 12:01:06.316 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-17 12:01:06.931 [main] MyStoreV1 - ***************TestCase Verify Home page tabs*****************
+[INFO ] 2024-03-17 12:01:07.741 [main] MyStoreV1 - verified productstore label
+[INFO ] 2024-03-17 12:01:07.895 [main] MyStoreV1 - verified home label
+[INFO ] 2024-03-17 12:01:08.108 [main] MyStoreV1 - verified contact label
+[INFO ] 2024-03-17 12:01:08.328 [main] MyStoreV1 - verified Aboutus label
+[INFO ] 2024-03-17 12:01:08.518 [main] MyStoreV1 - verified Logout label
+[INFO ] 2024-03-17 12:01:08.562 [main] MyStoreV1 - verified Cathegories Logout label
+[INFO ] 2024-03-17 12:01:08.679 [main] MyStoreV1 - selected on phones tab
+[INFO ] 2024-03-17 12:01:08.779 [main] MyStoreV1 - selected galaxy tab
+[INFO ] 2024-03-17 12:32:19.787 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-17 12:32:20.160 [main] MyStoreV1 - ***************TestCase Verify Registration and Login starts*****************
+[INFO ] 2024-03-17 12:32:20.347 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2024-03-17 12:32:20.729 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 12:32:21.174 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 12:32:21.362 [main] MyStoreV1 - user is registered
+[INFO ] 2024-03-17 12:32:24.827 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-17 12:32:24.981 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 12:32:25.416 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 12:32:25.844 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 12:32:26.070 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 12:32:26.185 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 12:32:29.490 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-17 12:32:32.783 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 12:32:32.934 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 12:32:33.323 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 12:32:33.507 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 12:32:33.606 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 12:32:35.467 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 12:32:35.571 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 12:32:35.910 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 12:32:36.088 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 12:32:36.209 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 12:32:37.151 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 12:32:37.262 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 12:32:37.689 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 12:32:37.858 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 12:32:37.944 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 12:32:39.303 [main] MyStoreV1 - ***************TestCase Verify Login starts*****************
+[INFO ] 2024-03-17 12:32:39.392 [main] MyStoreV1 - Clicked on Login link
+[INFO ] 2024-03-17 12:32:40.325 [main] MyStoreV1 - entered the username
+[INFO ] 2024-03-17 12:32:40.510 [main] MyStoreV1 - entered the password
+[INFO ] 2024-03-17 12:32:40.941 [main] MyStoreV1 - user successfully logged
+[INFO ] 2024-03-17 12:32:46.807 [main] MyStoreV1 - url opened
+[INFO ] 2024-03-17 12:32:47.001 [main] MyStoreV1 - ***************TestCase Verify Home page tabs*****************
+[INFO ] 2024-03-17 12:32:47.141 [main] MyStoreV1 - verified productstore label
+[INFO ] 2024-03-17 12:32:47.204 [main] MyStoreV1 - verified home label
+[INFO ] 2024-03-17 12:32:47.256 [main] MyStoreV1 - verified contact label
+[INFO ] 2024-03-17 12:32:47.310 [main] MyStoreV1 - verified Aboutus label
+[INFO ] 2024-03-17 12:32:47.367 [main] MyStoreV1 - verified Logout label
+[INFO ] 2024-03-17 12:32:47.425 [main] MyStoreV1 - verified Cathegories Logout label
+[INFO ] 2024-03-17 12:32:47.699 [main] MyStoreV1 - selected on phones tab
+[INFO ] 2024-03-17 12:32:47.863 [main] MyStoreV1 - selected galaxy tab
