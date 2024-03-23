@@ -50,7 +50,22 @@ public class TC_HomePageTest extends Baseclass {
 		hp.clickonplaceorder();
 		logger.info("placed order");
 		
+		hp.enterName();
+		logger.info("enter username");
 		
+		hp.enterCountry();
+		
+		hp.enterCity();
+		hp.enterCard();
+		
+		hp.enterMonth();
+		
+		hp.enterYear();
+		
+		logger.info("entered Year");
+		
+		hp.clickonpurchase();
+		logger.info("purchase the product");
 		
 		
 	}

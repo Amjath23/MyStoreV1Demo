@@ -33,8 +33,9 @@ public class ExtentListenerClass implements ITestListener {
 		String reportName = "MyStoreTestReport-" + timestamp + ".html";
 		htmlReporter = new ExtentSparkReporter(System.getProperty("user.dir") + "//Reports//" + reportName);
 		reports = new ExtentReports();
-		reports.attachReporter(htmlReporter);
 		
+		reports.attachReporter(htmlReporter);
+		reports.createTest("hellow");
 		//add system information/environment info to reports
 		reports.setSystemInfo("Machine:", "testpc1");
 		reports.setSystemInfo("OS", "windows 10");

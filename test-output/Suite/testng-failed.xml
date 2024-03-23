@@ -3,20 +3,13 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.mystore.testcases.TC_Loginpagetest2">
+      <class name="com.mystore.testcases.TC_Loginpagetest">
         <methods>
           <include name="tearDown"/>
-          <include name="VerifyLogin" invocation-numbers="0 1 2 3"/>
           <include name="setup"/>
+          <include name="VerifyLogin"/>
         </methods>
-      </class> <!-- com.mystore.testcases.TC_Loginpagetest2 -->
-      <class name="com.mystore.testcases.TC_HomePageTest">
-        <methods>
-          <include name="tearDown"/>
-          <include name="verifyHomepagelabels"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- com.mystore.testcases.TC_HomePageTest -->
+      </class> <!-- com.mystore.testcases.TC_Loginpagetest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

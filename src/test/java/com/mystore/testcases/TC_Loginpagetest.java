@@ -26,5 +26,7 @@ public class TC_Loginpagetest extends Baseclass {
 		
 		lp.Clickonloginbutton();
 		logger.info("user successfully logged");
+		
+		
 	}	
 }

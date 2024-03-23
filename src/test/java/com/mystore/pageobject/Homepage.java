@@ -67,6 +67,28 @@ public class Homepage {
 	@FindBy(xpath = "//button[text()='Place Order']") 
 	WebElement placeOrder;
 
+	@FindBy(id = "name") 
+	WebElement name;
+	
+	@FindBy(id = "country") 
+	WebElement country;
+	
+
+	@FindBy(id = "city") 
+	WebElement city;
+	
+	@FindBy(id = "card") 
+	WebElement card;
+	
+	@FindBy(id = "month") 
+	WebElement month;
+	
+	@FindBy(id = "year") 
+	WebElement year;
+	
+	@FindBy(xpath = "//button[text()='Purchase']") 
+	WebElement purchase;
+	//button[text()='Purchase']
 
 	public void verifyproductstore() {
 		productstore.isDisplayed();
@@ -103,11 +125,12 @@ public class Homepage {
 
 	public void clickonAddtocart() {
 		Addtocart.click();
-		ldriver.manage().timeouts().implicitlyWait(2000,TimeUnit.SECONDS);
+	/*	ldriver.manage().timeouts().implicitlyWait(2000,TimeUnit.SECONDS);
 		Alert alert = ldriver.switchTo().alert();
 		String msg  =  alert.getText();
 		System.out.println(msg);
         alert.accept();
+        */
 	}
 
 	public void clickoncart() {
@@ -118,8 +141,35 @@ public class Homepage {
 		placeOrder.click();
 	}
 
+	
+	//a[text()='Log out']
 
+	public void enterName() {
+		name.sendKeys("amjathkhan");	}
+	
+	public void enterCountry() {
+		country.sendKeys("india");
+	}
+	
+	public void enterCity() {
+		city.sendKeys("Nellore");
+	}
+	
+	public void enterCard() {
+		card.sendKeys("123456789");
+	}
+	
+	public void enterMonth() {
+		month.sendKeys("december");
+	}
+	
+	public void enterYear() {
+		year.sendKeys("2024");
+	}
 
+   public void clickonpurchase() {
+	   purchase.click();
+   }
 	
 
 
